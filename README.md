@@ -1,6 +1,6 @@
 # Hi, I'm Nawab Arzoo 👋
 
-### Frontend Web Developer | Master's in AI/ML (In Progress) @ NKNU Taiwan
+### Frontend Developer | Master's in AI/ML (In Progress) @ NKNU Taiwan
 
 I'm a frontend developer with **2 years of professional experience** at Appsysco Technologies, where I built **Shopify e-commerce stores** and **WordPress websites** for international clients. Currently pursuing my **Master's in Artificial Intelligence** at National Kaohsiung Normal University (NKNU), Taiwan.
 
