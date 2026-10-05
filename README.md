@@ -14,7 +14,7 @@ I'm a frontend developer with **2 years of professional experience** at Appsysco
 - 🤖 **Daily Workflow:** AI-assisted development with ChatGPT & Claude
 - 💬 **Languages:** English (Fluent), Hindi (Native), Mandarin (Beginner)
 - 📍 **Based in:** Kaohsiung, Taiwan
-- 🎯 **Open to:** Frontend Developer internship opportunities
+- 🎯 **Open to:** internship opportunities
 
 ---
 
